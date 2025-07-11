@@ -87,7 +87,7 @@ exports.LICENSE_RESULT = {
   NotBefore: 16
 };
 
-exports.LICENSE_CONNECTIONS = 20;
+exports.LICENSE_CONNECTIONS = 999;
 exports.LICENSE_USERS = 3;
 exports.LICENSE_EXPIRE_USERS_ONE_DAY = 24 * 60 * 60; // day in seconds
 
